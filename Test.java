@@ -2,7 +2,7 @@
 /**
  * Beschreiben Sie hier die Klasse Test.
  * 
- * @author (Ihr Name) 
+ * @AuchIch (Ihr Name)
  * @version (eine Versionsnummer oder ein Datum)
  */
 public class Test
@@ -22,7 +22,7 @@ public class Test
     /**
      * Ein Beispiel einer Methode - ersetzen Sie diesen Kommentar mit Ihrem eigenen
      * 
-     * @param  y    ein Beispielparameter für eine Methode
+     * @param  yneu    ein Beispielparameter für eine Methode
      * @return        die Summe aus x und y
      */
     public int beispielMethode(int yneu)
