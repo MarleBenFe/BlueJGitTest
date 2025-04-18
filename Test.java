@@ -31,4 +31,8 @@ public class Test
         // tragen Sie hier den Code ein
         return y + yneu;
     }
+
+    public void main(String[] args){
+        Test test = new Test();
+    }
 }
