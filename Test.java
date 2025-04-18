@@ -34,5 +34,6 @@ public class Test
 
     public void main(String[] args){
         Test test = new Test();
+        test.beispielMethode(10);
     }
 }
