@@ -8,7 +8,7 @@
 public class Test
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x;
+    private int y;
 
     /**
      * Konstruktor für Objekte der Klasse Test
@@ -16,7 +16,7 @@ public class Test
     public Test()
     {
         // Instanzvariable initialisieren
-        x = 0;
+        y = 0;
     }
 
     /**
@@ -25,9 +25,9 @@ public class Test
      * @param  y    ein Beispielparameter für eine Methode
      * @return        die Summe aus x und y
      */
-    public int beispielMethode(int y)
+    public int beispielMethode(int yneu)
     {
         // tragen Sie hier den Code ein
-        return x + y;
+        return y + yneu;
     }
 }
