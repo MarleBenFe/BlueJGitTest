@@ -2,7 +2,7 @@
 /**
  * Beschreiben Sie hier die Klasse Test2.
  * 
- * @author (Ihr Name) 
+ * @Ich (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
 public class Test2
