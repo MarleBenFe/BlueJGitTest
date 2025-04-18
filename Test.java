@@ -28,6 +28,7 @@ public class Test
      */
     public int beispielMethode(int yneu)
     {
+        System.out.println("Hello Jannick!");
         // tragen Sie hier den Code ein
         return y + yneu;
     }
