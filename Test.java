@@ -41,7 +41,7 @@ public class Test
         Test test = new Test();
         test.beispielMethode(10);
     }
-    public void Leo(String[] args){
+    public void Leo1(String[] args){
         Test test = new Test();
         test.beispielMethode(10);
     }
