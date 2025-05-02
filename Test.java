@@ -53,4 +53,8 @@ public class Test
         Test test = new Test();
         test.beispielMethode(10);
     }
+    public void felix(String[] args){
+        Test test = new Test();
+        test.beispielMethode(10);
+    }
 }
